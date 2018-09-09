@@ -19,3 +19,4 @@ function deleteFromObjectByKey(object,prop){
 function destructivelyDeleteFromObjectByKey(object,prop){
   delete object.prop
   return object
+}
